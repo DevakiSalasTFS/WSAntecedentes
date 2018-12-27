@@ -1,0 +1,33 @@
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\wsAntecedentes.dll.config
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\wsAntecedentes.dll
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\wsAntecedentes.pdb
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\EntityFramework.dll
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\EntityFramework.SqlServer.dll
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\EntityFramework.xml
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\EntityFramework.SqlServer.xml
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\obj\Release\wsAntecedentes.dll
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\obj\Release\wsAntecedentes.pdb
+C:\Users\ex_rosenda\Source\wsAntecedentes\wsAntecedentes\wsAntecedentes\obj\Release\wsAntecedentes.csprojResolveAssemblyReference.cache
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\wsAntecedentes.dll.config
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\wsAntecedentes.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\wsAntecedentes.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\EntityFramework.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\EntityFramework.SqlServer.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\EntityFramework.xml
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\bin\EntityFramework.SqlServer.xml
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\obj\Release\wsAntecedentes.csprojResolveAssemblyReference.cache
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\obj\Release\wsAntecedentes.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\FICO Fase 1\wsAntecedentes\wsAntecedentes\wsAntecedentes\wsAntecedentes\obj\Release\wsAntecedentes.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\wsAntecedentes.dll.config
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\wsAntecedentes.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\wsAntecedentes.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\AuthenticationModule.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\EntityFramework.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\EntityFramework.SqlServer.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\AuthenticationModule.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\EntityFramework.xml
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\EntityFramework.SqlServer.xml
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\obj\Release\wsAntecedentes.csprojResolveAssemblyReference.cache
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\obj\Release\wsAntecedentes.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\obj\Release\wsAntecedentes.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\wsAntecedentes\bin\Seguridad.dll
