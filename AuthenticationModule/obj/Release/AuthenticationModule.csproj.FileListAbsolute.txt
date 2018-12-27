@@ -1,0 +1,24 @@
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Release\AuthenticationModule.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Release\AuthenticationModule.pdb
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\obj\Release\AuthenticationModule.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\obj\Release\AuthenticationModule.pdb
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Release\System.Net.Http.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Release\System.Net.Http.xml
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Release\AuthenticationModule.dll.config
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Release\Seguridad.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Release\Seguridad.pdb
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Release\AuthenticationModule.dll.config
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Release\AuthenticationModule.dll
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Release\AuthenticationModule.pdb
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Release\System.Net.Http.dll
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Release\System.Net.Http.xml
+C:\Users\Ex_rosenda\Source\AuthenticationModule\obj\Release\AuthenticationModule.csprojResolveAssemblyReference.cache
+C:\Users\Ex_rosenda\Source\AuthenticationModule\obj\Release\AuthenticationModule.dll
+C:\Users\Ex_rosenda\Source\AuthenticationModule\obj\Release\AuthenticationModule.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Release\AuthenticationModule.dll.config
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Release\AuthenticationModule.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Release\AuthenticationModule.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Release\System.Net.Http.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Release\System.Net.Http.xml
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\obj\Release\AuthenticationModule.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\obj\Release\AuthenticationModule.pdb

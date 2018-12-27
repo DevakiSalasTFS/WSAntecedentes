@@ -1,0 +1,48 @@
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Debug\AuthenticationModule.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Debug\AuthenticationModule.pdb
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Debug\System.Net.Http.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Debug\System.Net.Http.xml
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\obj\Debug\AuthenticationModule.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\obj\Debug\AuthenticationModule.pdb
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\obj\Debug\AuthenticationModule.csprojResolveAssemblyReference.cache
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Debug\AuthenticationModule.dll.config
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsHttpAuthentication\AuthenticationModule\bin\Debug\Seguridad.pdb
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsSecInffinix\AuthenticationModule\obj\Debug\AuthenticationModule.csprojResolveAssemblyReference.cache
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsSecInffinix\AuthenticationModule\obj\Debug\AuthenticationModule.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsSecInffinix\AuthenticationModule\obj\Debug\AuthenticationModule.pdb
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsSecInffinix\AuthenticationModule\bin\Debug\AuthenticationModule.dll.config
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsSecInffinix\AuthenticationModule\bin\Debug\AuthenticationModule.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsSecInffinix\AuthenticationModule\bin\Debug\AuthenticationModule.pdb
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsSecInffinix\AuthenticationModule\bin\Debug\System.Net.Http.dll
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsSecInffinix\AuthenticationModule\bin\Debug\Seguridad.pdb
+C:\Users\ex_vazquea\Documents\Visual Studio 2013\Projects\wsSecInffinix\AuthenticationModule\bin\Debug\System.Net.Http.xml
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Debug\AuthenticationModule.dll.config
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Debug\AuthenticationModule.dll
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Debug\AuthenticationModule.pdb
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Debug\System.Net.Http.dll
+C:\Users\Ex_rosenda\Source\AuthenticationModule\bin\Debug\System.Net.Http.xml
+C:\Users\Ex_rosenda\Source\AuthenticationModule\obj\Debug\AuthenticationModule.csprojResolveAssemblyReference.cache
+C:\Users\Ex_rosenda\Source\AuthenticationModule\obj\Debug\AuthenticationModule.dll
+C:\Users\Ex_rosenda\Source\AuthenticationModule\obj\Debug\AuthenticationModule.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsPeps\AuthenticationModule\bin\Debug\AuthenticationModule.dll.config
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsPeps\AuthenticationModule\bin\Debug\AuthenticationModule.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsPeps\AuthenticationModule\bin\Debug\AuthenticationModule.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsPeps\AuthenticationModule\bin\Debug\System.Net.Http.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsPeps\AuthenticationModule\bin\Debug\System.Net.Http.xml
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsPeps\AuthenticationModule\obj\Debug\AuthenticationModule.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsPeps\AuthenticationModule\obj\Debug\AuthenticationModule.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsCompraEnLinea\AuthenticationModule\bin\Debug\AuthenticationModule.dll.config
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsCompraEnLinea\AuthenticationModule\bin\Debug\AuthenticationModule.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsCompraEnLinea\AuthenticationModule\bin\Debug\AuthenticationModule.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsCompraEnLinea\AuthenticationModule\bin\Debug\System.Net.Http.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsCompraEnLinea\AuthenticationModule\bin\Debug\System.Net.Http.xml
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsCompraEnLinea\AuthenticationModule\obj\Debug\AuthenticationModule.csprojResolveAssemblyReference.cache
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsCompraEnLinea\AuthenticationModule\obj\Debug\AuthenticationModule.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsCompraEnLinea\AuthenticationModule\obj\Debug\AuthenticationModule.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Debug\AuthenticationModule.dll.config
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Debug\AuthenticationModule.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Debug\AuthenticationModule.pdb
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Debug\System.Net.Http.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\bin\Debug\System.Net.Http.xml
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\obj\Debug\AuthenticationModule.dll
+C:\Users\ex_rosenda\Documents\Códigos Servicios BUS\Plan B\wsAntecedentes_BasicAuth\AuthenticationModule\obj\Debug\AuthenticationModule.pdb
